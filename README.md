@@ -107,17 +107,6 @@ archlinux-ai-cli --history 20   # Show last 20 entries
 archlinux-ai-cli --help
 ```
 
-## 💡 Example Questions
-
-- "How do I update all packages on Arch Linux?"
-- "My system won't boot, what should I check?"
-- "How to enable the AUR?"
-- "What's the difference between pacman -S and -Syu?"
-- "How to install a package from source?"
-- "Why is my wifi not working after update?"
-- "How to check system logs?"
-- "How do I install multiple packages at once?"
-
 ## 🛡️ Safety Features
 
 - **Dangerous Command Warnings**: The AI warns you before suggesting potentially risky operations
@@ -187,12 +176,6 @@ This tool provides AI-generated advice based on the Arch Wiki and general Linux 
 - [Arch Linux](https://archlinux.org/) and the [Arch Wiki](https://wiki.archlinux.org/) community
 - [Google AI Studio](https://makersuite.google.com/) for providing free API access
 - All contributors and users of this tool
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/Dacraezy1/archlinux-ai-cli/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Dacraezy1/archlinux-ai-cli/discussions)
-- **Arch Wiki**: [wiki.archlinux.org](https://wiki.archlinux.org/)
 
 ---
 
